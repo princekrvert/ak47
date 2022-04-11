@@ -1,0 +1,5 @@
+Temp-mail fake_mail_generator https://github.com/princekrvert/Temp-mail.git
+Short url_shortener_Python https://github.com/princekrvert/Short.git
+Kalimux kali_linux_on_termux https://github.com/noob-hackers/kalimux.git
+M-wiz metasploit_installer_termux https://github.com/noob-hackers/m-wiz.git
+Host localhost_exposer https://github.com/htr-tech/host.git

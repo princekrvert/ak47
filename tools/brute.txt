@@ -1,0 +1,5 @@
+Facebook-bruteforce bruteforce_tool_for_facebook https://github.com/IAmBlackHacker/Facebook-BruteForce.github
+Inninja instagram_bruteforce_tool https://github.com/princekrvert/inninja.git 
+Ighack Instagram_bruteforce_by_noob_hacker https://github.com/noob-hackers/ighack.git
+Fbbrute Facebook_bruteforce_tool https://github.com/Gameye98/FBBrute.git 
+twitter-bruteforcetool bruteforce_tool_for_twitter https://github.com/dorkerdevil/twitter_bruteforce-tool.git

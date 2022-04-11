@@ -1,0 +1,6 @@
+Socialphish python_phishing_tool https://github.com/DarkSecDevelopers/HiddenEye.git
+Zphisher Automated_phishing_tool https://github.com/htr-tech/zphisher.git
+HiddenEye Modern_phishing_tool  https://github.com/DarkSecDevelopers/HiddenEye.git
+Ravana Pishing_tool_for_begineers https://github.com/princekrvert/Ravana.git
+Fphishig Free_fire_phishing https://github.com/princekrvert/fphish.git
+Asura phishing_tool_in_python https://github.com/princekrvert/Asura.git

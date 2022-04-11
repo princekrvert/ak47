@@ -1,0 +1,5 @@
+M_kit Zsh_installer_termux https://github.com/princekrvert/m_kit.git
+T-load termux_styler_noob clone https://github.com/noob-hackers/T-LOAD.git
+Termux-desktop termux_styler  https://github.com/adi1090x/termux-desktop.git
+T-banner termux_styler_tool https://github.com/princekrvert/T_banner.git
+Tstyle customie_termux https://github.com/htr-tech/tstyle.git
