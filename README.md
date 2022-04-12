@@ -9,7 +9,6 @@
 
 * `git clone https://github.com/princekrvert/ak47.git`
 * `cd ak47`
-* `npm install`
 * `chmod +x *`
 * `./ak47.sh`
 <h3> Screenshot </h3>
