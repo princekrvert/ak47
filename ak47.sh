@@ -3,7 +3,8 @@
 #date 26 mar 2022
 # make a main option choosing manue 
 # make a variable and store the pwd
-
+trap exitout SIGINT
+trap exitout SIGTSTP
 banner(){
     echo -e "\033[35;1m ︻╦╤─\033[36;1m MADE BY PRINCE "
     echo -e " \033[0;1m"
@@ -19,7 +20,6 @@ cd $currentdir
 bash ak47.sh
 }
 #make a function to show all the tools 
-
 # information gathering function 
 showme(){
     #first check for file
@@ -48,9 +48,15 @@ exitout(){
 # make a function to update the tool
 updateme(){
     echo -e "\e[31;1m Checking version of the tool ...."
-    echo -e "This can take some time please wait..."
+    version=$(curl -s https://raw.githubusercontent.com/princekrvert/ak47/main/version)
+    if [[ $version=="1.0.0" ]];then
+    echo "Tool is already updated.."
+    else
+    echo "\e[92;1m Updating ak47 "
+    git pull https://github.com/princekrvert/ak47.git > /dev/null 2>&1 & echo -e "${g}[⏰${g}] ${b} wait..."
+	clear
+    fi
 }
-
 # make a fuchtion for about me 
 aboutme(){
     echo -e "\e[32;1m My name is prince kumar"
