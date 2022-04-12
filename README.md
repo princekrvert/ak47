@@ -13,7 +13,7 @@
 * `chmod +x *`
 * `./ak47.sh`
 <h3> Screenshot </h3>
-<img src="https://user-images.githubusercontent.com/56459297/135476823-24c42083-59f2-4e1b-9f70-3124f03ba1c9.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/56459297/162873441-431085c4-7e27-4620-bb30-9abe286ac6d5.png" width="250" height="250">
 
 ### social 
  <a href="https://www.instagram.com/princekrvert/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
