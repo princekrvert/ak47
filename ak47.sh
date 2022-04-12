@@ -5,6 +5,14 @@
 # make a variable and store the pwd
 trap exitout SIGINT
 trap exitout SIGTSTP
+req(){
+    printf "${r}_______ ${p} checking for requirements ${r}_______\n"
+	command -v curl 2>&1 > /dev/null || { echo -e  "${g}+++++${y}Installing curl${g}+++++" ; apt-get install curl -y ; }
+    command -v unzip 2>&1 > /dev/null || { echo -e "${g}+++++${y}Installing unzip${g}+++++" ; apt-get install unzip -y ;}
+	command -v wget 2>&1 > /dev/null || { echo -e "${g}+++++${y}Installing wget${g}+++++" ; apt-get install wget -y ; }
+    clear
+}
+req
 banner(){
     echo -e "\033[35;1m ︻╦╤─\033[36;1m MADE BY PRINCE "
     echo -e " \033[0;1m"
