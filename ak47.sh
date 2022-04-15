@@ -57,7 +57,7 @@ exitout(){
 updateme(){
     echo -e "\e[31;1m Checking version of the tool ...."
     version=$(curl -s https://raw.githubusercontent.com/princekrvert/ak47/main/version)
-    if [[ $version=="1.0.0" ]];then
+    if [[ $version=="1.0.1" ]];then
     echo "Tool is already updated.."
     else
     echo "\e[92;1m Updating ak47 "
