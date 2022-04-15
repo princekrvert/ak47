@@ -5,4 +5,6 @@ Ravana Pishing_tool_for_begineers https://github.com/princekrvert/Ravana.git
 Fphishig Free_fire_phishing https://github.com/princekrvert/fphish.git
 Asura phishing_tool_in_python https://github.com/princekrvert/Asura.git
 Maskphish mask_phishing_link https://github.com/jaykali/maskphish.git
+Blackphish phishing_tool_ https://github.com/iinc0gnit0/BlackPhish.git
+
 

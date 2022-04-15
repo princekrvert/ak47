@@ -4,3 +4,6 @@ Kalimux kali_linux_on_termux https://github.com/noob-hackers/kalimux.git
 M-wiz metasploit_installer_termux https://github.com/noob-hackers/m-wiz.git
 Host localhost_exposer https://github.com/htr-tech/host.git
 Lazybee wordlist_creater_python https://github.com/noob-hackers/lazybee.git
+Tbomb best_sms_bomber https://github.com/TheSpeedX/TBomb.git
+Sara simple_ransomware_attack  https://github.com/termuxhackers-id/SARA
+Sigit simple_information_gathering https://github.com/termuxhackers-id/SIGIT.git
