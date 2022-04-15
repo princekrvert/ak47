@@ -57,12 +57,12 @@ exitout(){
 updateme(){
     echo -e "\e[31;1m Checking version of the tool ...."
     version=$(curl -s https://raw.githubusercontent.com/princekrvert/ak47/main/version)
-    if [[ $version=="1.0.1" ]];then
+    if [[ $version == 1.0.0 ]];then
     echo "Tool is already updated.."
     else
-    echo "\e[92;1m Updating ak47 "
+    echo -e "\e[92;1m Updating ak47 "
     git pull https://github.com/princekrvert/ak47.git > /dev/null 2>&1 & echo -e "${g}[⏰${g}] ${b} wait..."
-	clear
+	echo "updated sucessfully "
     fi
 }
 # make a fuchtion for about me 
