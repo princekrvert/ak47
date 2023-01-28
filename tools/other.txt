@@ -8,4 +8,7 @@ Tbomb best_sms_bomber https://github.com/TheSpeedX/TBomb.git
 Sara simple_ransomware_attack  https://github.com/termuxhackers-id/SARA
 Sigit simple_information_gathering https://github.com/termuxhackers-id/SIGIT.git
 tbuster a_file_and_dir_buster https://github.com/princekrvert/tbuster.git
+cupp_indian common_user_password_pofiler_for_indian https://github.com/princekrvert/cupp.git
+upi_recon upi_information_gathering_tool https://github.com/princekrvert/upi_recon.gti
+
 

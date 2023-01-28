@@ -34,3 +34,5 @@ Termux-desktop termux_styler  https://github.com/adi1090x/termux-desktop.git
 T-banner termux_styler_tool https://github.com/princekrvert/T_banner.git
 Tstyle customie_termux https://github.com/htr-tech/tstyle.git
 tbuster a_file_and_dir_buster https://github.com/princekrvert/tbuster.git
+cupp_indian common_user_password_pofiler_for_indian https://github.com/princekrvert/cupp.git
+upi_recon upi_information_gathering_tool https://github.com/princekrvert/upi_recon.gti
