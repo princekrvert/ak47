@@ -4,3 +4,4 @@ Ighack Instagram_bruteforce_by_noob_hacker https://github.com/noob-hackers/ighac
 Fbbrute Facebook_bruteforce_tool https://github.com/Gameye98/FBBrute.git 
 twitter-bruteforcetool bruteforce_tool_for_twitter https://github.com/dorkerdevil/twitter_bruteforce-tool.git
 SocialBox bruteforce_tool_for_social_media https://github.com/samsesh/SocialBox-Termux.git
+Doval Hash_cracker_in_golang https://github.com/princekrvert/doval
